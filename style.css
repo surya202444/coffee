@@ -1,8 +1,8 @@
 
 .containers{
-    background: black;
+    
     width: 100%;
-    height: 415vh;
+    height: 350vh;
     position: relative;
 }
 .heading{
@@ -125,11 +125,11 @@ width: 300px; }
 }
 
 .footer1{
-    font-size:12px ;
-    color: white;
+    font-size:15px ;
+    color:black;
     width: 100%;
     height: 40px;
-    width: 300px;
+    width: 400px;
     
     margin-left: 80px;
     margin-top: 40px;
